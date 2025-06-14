@@ -1,7 +1,10 @@
  <!DOCTYPE html> 
-<html Lang="en">
   <head>
-   <style>
+<html Lang="en">
+ <title>Arias official swifty fan page</title>
+    <meta charset="utf-8"> 
+
+<style>
     body {
     background-color: pink;
     }
@@ -10,8 +13,7 @@
     }
    
    </style>
-<title>Arias official swifty fan page</title>
-    <meta charset="utf-8">
+
     </head>
     
     <body>
